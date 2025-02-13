@@ -21,16 +21,18 @@ Este repositório contém materiais e implementações sobre técnicas de Proces
 - `Matplotlib & Seaborn` → Visualização gráfica de padrões textuais.
 - `WordCloud` → Criação de nuvens de palavras para destacar termos mais frequentes.
 
+---
+
 ## Técnicas Principais
 
-- **Pré-processamento de Textos** → Remoção de stopwords, stemming e lematização para otimização da análise.
-- **Feature Engineering** → Extração e transformação de características textuais.
-- **Modelos de Classificação** → Aplicação de algoritmos supervisionados para categorização de textos.
-- **Otimização de Hiperparâmetros** → Ajuste fino de parâmetros para melhorar o desempenho dos modelos.
+- **Vetorização TF-IDF** → Converte textos em vetores numéricos, atribuindo pesos às palavras com base na frequência relativa no documento e no corpus.
+- **Stemização** → Reduz palavras às suas raízes, removendo sufixos e afixos para normalizar variações morfológicas.
+- **Pré-processamento/Tokenização** → Inclui limpeza de texto, remoção de stopwords, normalização e segmentação em tokens para facilitar a análise.
+- **Ngrams** → Constrói combinações de palavras consecutivas (bigramas, trigramas, etc.) para capturar padrões semânticos e contextuais mais amplos nos textos.
 
 ---
 
-## Estrutura do notebook
+## Estrutura do Notebook
 
 1. **Otimização da Análise**
 2. **Melhoria da Visualização de Pareto**
