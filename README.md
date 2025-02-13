@@ -29,6 +29,7 @@ Este repositório contém materiais e implementações sobre técnicas de Proces
 - **Stemização** → Reduz palavras às suas raízes, removendo sufixos e afixos para normalizar variações morfológicas.
 - **Pré-processamento/Tokenização** → Inclui limpeza de texto, remoção de stopwords, normalização e segmentação em tokens para facilitar a análise.
 - **Ngrams** → Constrói combinações de palavras consecutivas (bigramas, trigramas, etc.) para capturar padrões semânticos e contextuais mais amplos nos textos.
+- **Bag of Words (BoW)** → é uma técnica de representação numérica de textos que ignora a ordem das palavras e se baseia apenas na frequência com que cada termo aparece em um documento.
 
 ---
 
